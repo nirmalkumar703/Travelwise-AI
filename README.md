@@ -4,6 +4,8 @@
 
 Built with **React + Vite**, TravelWise AI provides an interactive map-based experience to simplify trip planning for tourists, office commuters, families, students, and medical travelers.
 
+Explanation Video: https://youtu.be/Bg3ocEfwzE4?si=RiiDO8Lk9EzTcpU1
+Precentation:https: https://drive.google.com/file/d/1IDJ8xihwMvm8oV_yYMIqgItXWtTYgD3K/view?usp=sharing
 ---
 
 ## ✨ Features
